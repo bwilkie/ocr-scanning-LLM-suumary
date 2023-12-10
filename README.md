@@ -1,4 +1,4 @@
-# ocr-scanning-LLM-suumary
+# ocr-scanning-LLM-summary
 Automatic document scanning and summarisation with a Gradio web-ui interface.
 
 This notebook leverages Optical Character Recognition for image to text conversion, and Facebook bart LLM for summarisation.
